@@ -1,0 +1,58 @@
+*begin test*
+0th phase:the length of the test_dataset:182
+class:0,mae:69.812，mse:109.642
+ * Average MAE :69.812 
+ * Average MSE :109.642 
+ ** MAE :69.81 
+ ** MSE :109.64 
+*begin test*
+1th phase:the length of the test_dataset:430
+class:0,mae:14.987，mse:23.612
+class:1,mae:72.415，mse:118.158
+ * Average MAE :43.701 
+ * Average MSE :70.885 
+ ** MAE :39.29 
+ ** MSE :78.94 
+*begin test*
+2th phase:the length of the test_dataset:612
+class:0,mae:19.418，mse:37.538
+class:1,mae:72.450，mse:129.958
+class:2,mae:18.707，mse:32.725
+ * Average MAE :36.858 
+ * Average MSE :66.740 
+ ** MAE :34.90 
+ ** MSE :76.65 
+*begin test*
+3th phase:the length of the test_dataset:827
+class:0,mae:17.284，mse:37.360
+class:1,mae:82.068，mse:129.101
+class:2,mae:25.895，mse:40.916
+class:3,mae:17.610，mse:36.351
+ * Average MAE :35.714 
+ * Average MSE :60.932 
+ ** MAE :34.19 
+ ** MSE :69.45 
+*begin test*
+4th phase:the length of the test_dataset:1009
+class:0,mae:18.079，mse:30.214
+class:1,mae:76.389，mse:138.689
+class:2,mae:25.075，mse:44.102
+class:3,mae:17.927，mse:33.167
+class:4,mae:18.680，mse:34.937
+ * Average MAE :31.230 
+ * Average MSE :56.222 
+ ** MAE :30.42 
+ ** MSE :67.61 
+*begin test*
+5th phase:the length of the test_dataset:1185
+class:0,mae:8.528，mse:13.699
+class:1,mae:76.911，mse:137.278
+class:2,mae:24.902，mse:42.221
+class:3,mae:26.637，mse:57.489
+class:4,mae:18.498，mse:31.136
+class:5,mae:20.093，mse:36.927
+ * Average MAE :29.262 
+ * Average MSE :53.125 
+ ** MAE :28.82 
+ ** MSE :64.72 
+total time cost:0.16 hours
